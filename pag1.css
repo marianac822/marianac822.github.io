@@ -1,0 +1,106 @@
+
+h2{
+    color:rgb(12, 9, 3);
+    font-family:arial;
+    font-size: 25px;
+    font-weight: 300;
+}
+
+h6{
+    color:blue;
+    font-family: Arial;
+    font-size: 25px;
+    font-weight: 300
+}
+
+p1{
+    color:black;
+    font-family: arial;
+    font-size: 25px;
+    font-weight: 300
+}
+
+h4{
+    color:blue;
+    font-family: Arial;
+    font-size: 25px;
+    font-weight: 300
+}
+
+p2{
+    color:black;
+    font-family: arial;
+    font-size: 25px;
+    font-weight: 300
+}
+
+ 
+h5{
+    color:blue;
+    font-family: arial;
+    font-size: 25px;
+    font-weight: 300
+}
+
+li{
+    font-family: arial;
+    font-size: 25px;
+    font-weight: 300
+}
+
+h6{
+    color:blue;
+    font-family: Arial;
+    font-size: 25px;
+    font-weight: 300
+}
+
+p3{
+    color:black;
+    font-family: arial;
+    font-size: 25px;
+    font-weight: 300 
+}
+
+h7{
+    color:blue;
+    font-family: Arial;
+    font-size: 25px;
+    font-weight: 300
+}
+
+body{ 
+    background-color: rgb(231, 197, 197)
+}
+
+div{
+    background-color: rgb(231, 138, 138) 
+}
+
+.styled-table {
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 1em;
+    font-family: arial;
+    min-width: 500px;
+    box-shadow: 0 0 20px black;
+
+}
+
+.styled-table thead tr{
+    background-color: rgb(86, 86, 173);
+    color: rgb(110, 187, 110);
+    text-align: middle;
+
+}
+
+.styled-table th,
+.styled-table td {
+    padding: 12px 15px;
+    
+}
+
+
+.styled-table tbody tr{
+    border-bottom: 1px solid rgb(0, 0, 0);
+}
